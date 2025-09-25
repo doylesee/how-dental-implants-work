@@ -26,7 +26,7 @@ $(document).ready(function(){
 			var bottom_of_object = $(this).offset().top + 200;
 			var bottom_of_window = $(window).scrollTop() + $(window).height();
 
-			console.log(bottom_of_window+' : '+bottom_of_object);
+			console.log(bottom_of_window+' : '+$('.section-4__image').offset().top + 200);
 			
 			if( bottom_of_window > bottom_of_object ){
 				if ($(this).hasClass('effects--left')) {
