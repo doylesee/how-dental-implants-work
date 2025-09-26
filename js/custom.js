@@ -25,7 +25,7 @@ $(document).ready(function(){
 		$('.effects').each( function(i){
 			var trigger_offset = 200; // Default offset
 		    if ($(this).hasClass('section-4__image')) {
-		        trigger_offset = -500;
+		        trigger_offset = -300;
 		    }
 
 			var bottom_of_object = $(this).offset().top + trigger_offset;
