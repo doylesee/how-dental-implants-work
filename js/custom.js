@@ -23,7 +23,7 @@ $(document).ready(function(){
 		
 		// Trigger effects when user scrolls down to specific section
 		$('.effects').each( function(i){
-			var bottom_of_object = $(this).offset().top;
+			var bottom_of_object = $(this).offset().top - 500;
 			var bottom_of_window = $(window).scrollTop() + $(window).height();
 			
 			if( bottom_of_window > bottom_of_object ){
