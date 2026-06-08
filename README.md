@@ -5,7 +5,7 @@
 <b>Tools:</b>    Wordpress, PHP, MySQL, HTML, CSS, JS/jQuery, Foundation
 </pre>
 
-<br /><strong><a href="https://doylesee.github.io/dental-studio-101/">View project</a></strong>
+<br /><strong><a href="https://doylesee.github.io/dental-studio-101/" rel="noopener noreferrer">View project</a></strong>
 
 <br />
 
@@ -33,4 +33,4 @@ Rigorously tested the experience across modern browsers, ensuring identical, lag
 ## Results & Impact
 The project launched as a beautifully polished, interactive one-page WordPress experience that perfectly executed the design team's original vision. By prioritizing clean code and lightweight scroll animations, I delivered a responsive, cross-browser compatible microsite that dramatically increased on-page engagement without sacrificing load times and user experience.
 
-<br /><strong><a href="https://doylesee.github.io/dental-studio-101/">View project</a></strong>
+<br /><strong><a href="https://doylesee.github.io/dental-studio-101/" rel="noopener noreferrer">View project</a></strong>
