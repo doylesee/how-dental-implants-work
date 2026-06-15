@@ -2,7 +2,7 @@
 <pre>
 <b>Project:</b>  Dental Studio 101
 <b>Role:</b>     Web Developer
-<b>Tools:</b>    Wordpress, PHP, MySQL, HTML, CSS, JS/jQuery, Foundation
+<b>Tools:</b>    Photoshop, Wordpress, PHP, MySQL, HTML, CSS, JS/jQuery, Foundation
 </pre>
 
 <br /><strong><a href="https://doylesee.github.io/dental-studio-101/" rel="noopener noreferrer">View project</a></strong>
